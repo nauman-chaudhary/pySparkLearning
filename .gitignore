@@ -1,0 +1,5 @@
+*.log
+*.txt
+average-monthly-temperatures-acr.csv
+metastore_db/
+.ipynb_checkpoints/
